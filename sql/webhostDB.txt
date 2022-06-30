@@ -1,0 +1,11 @@
+pwd website acmac : k*za&Ie7QESKRGQe2mhJ
+
+database acmac:-
+dbname : id19152875_acmac
+db uname : id19152875_psm_acmac1
+pwd db acmac : @-3$7<iOPP#7EBIG
+
+database temphum:-
+dbname : id19152875_temphum
+db uname : id19152875_psm_acmac2
+pwd db acmac : 1%FwE5w/{qlI{+zr
